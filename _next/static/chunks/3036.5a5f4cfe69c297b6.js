@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3036],{73036:function(t,n,a){a.d(n,{loadParticlesAttractInteraction:function(){return e}});async function e(t,n=!0){await t.addInteractor("particlesAttract",async t=>{let{Attractor:n}=await a.e(7841).then(a.bind(a,57841));return new n(t)},n)}}}]);
